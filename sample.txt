@@ -1,0 +1,173 @@
+{
+  "metric" : "OVERALL",
+  "measurement" : "RunTime(ms)",
+  "value" : 50050.0
+} {
+  "metric" : "OVERALL",
+  "measurement" : "Throughput(ops/sec)",
+  "value" : 3398.6413586413587
+} {
+  "metric" : "TOTAL_GCS_Copy",
+  "measurement" : "Count",
+  "value" : 37.0
+} {
+  "metric" : "TOTAL_GC_TIME_Copy",
+  "measurement" : "Time(ms)",
+  "value" : 73.0
+} {
+  "metric" : "TOTAL_GC_TIME_%_Copy",
+  "measurement" : "Time(%)",
+  "value" : 0.14585414585414586
+} {
+  "metric" : "TOTAL_GCS_MarkSweepCompact",
+  "measurement" : "Count",
+  "value" : 0.0
+} {
+  "metric" : "TOTAL_GC_TIME_MarkSweepCompact",
+  "measurement" : "Time(ms)",
+  "value" : 0.0
+} {
+  "metric" : "TOTAL_GC_TIME_%_MarkSweepCompact",
+  "measurement" : "Time(%)",
+  "value" : 0.0
+} {
+  "metric" : "TOTAL_GCs",
+  "measurement" : "Count",
+  "value" : 37.0
+} {
+  "metric" : "TOTAL_GC_TIME",
+  "measurement" : "Time(ms)",
+  "value" : 73.0
+} {
+  "metric" : "TOTAL_GC_TIME_%",
+  "measurement" : "Time(%)",
+  "value" : 0.14585414585414586
+} {
+  "metric" : "READ",
+  "measurement" : "Operations",
+  "value" : 0.0
+} {
+  "metric" : "READ",
+  "measurement" : "AverageLatency(us)",
+  "value" : "NaN"
+} {
+  "metric" : "READ",
+  "measurement" : "MinLatency(us)",
+  "value" : 9.223372036854776E18
+} {
+  "metric" : "READ",
+  "measurement" : "MaxLatency(us)",
+  "value" : 0.0
+} {
+  "metric" : "READ",
+  "measurement" : "95thPercentileLatency(us)",
+  "value" : 0.0
+} {
+  "metric" : "READ",
+  "measurement" : "99thPercentileLatency(us)",
+  "value" : 0.0
+} {
+  "metric" : "READ",
+  "measurement" : "Return=NOT_FOUND",
+  "value" : 161639
+} {
+  "metric" : "UPDATE-FAILED",
+  "measurement" : "Operations",
+  "value" : 8463.0
+} {
+  "metric" : "UPDATE-FAILED",
+  "measurement" : "AverageLatency(us)",
+  "value" : 125.99314663830793
+} {
+  "metric" : "UPDATE-FAILED",
+  "measurement" : "MinLatency(us)",
+  "value" : 68.0
+} {
+  "metric" : "UPDATE-FAILED",
+  "measurement" : "MaxLatency(us)",
+  "value" : 8847.0
+} {
+  "metric" : "UPDATE-FAILED",
+  "measurement" : "95thPercentileLatency(us)",
+  "value" : 161.0
+} {
+  "metric" : "UPDATE-FAILED",
+  "measurement" : "99thPercentileLatency(us)",
+  "value" : 1305.0
+} {
+  "metric" : "CLEANUP",
+  "measurement" : "Operations",
+  "value" : 1.0
+} {
+  "metric" : "CLEANUP",
+  "measurement" : "AverageLatency(us)",
+  "value" : 3.0007296E7
+} {
+  "metric" : "CLEANUP",
+  "measurement" : "MinLatency(us)",
+  "value" : 2.9999104E7
+} {
+  "metric" : "CLEANUP",
+  "measurement" : "MaxLatency(us)",
+  "value" : 3.0015487E7
+} {
+  "metric" : "CLEANUP",
+  "measurement" : "95thPercentileLatency(us)",
+  "value" : 3.0015487E7
+} {
+  "metric" : "CLEANUP",
+  "measurement" : "99thPercentileLatency(us)",
+  "value" : 3.0015487E7
+} {
+  "metric" : "READ-FAILED",
+  "measurement" : "Operations",
+  "value" : 161639.0
+} {
+  "metric" : "READ-FAILED",
+  "measurement" : "AverageLatency(us)",
+  "value" : 113.4904633164026
+} {
+  "metric" : "READ-FAILED",
+  "measurement" : "MinLatency(us)",
+  "value" : 72.0
+} {
+  "metric" : "READ-FAILED",
+  "measurement" : "MaxLatency(us)",
+  "value" : 36735.0
+} {
+  "metric" : "READ-FAILED",
+  "measurement" : "95thPercentileLatency(us)",
+  "value" : 140.0
+} {
+  "metric" : "READ-FAILED",
+  "measurement" : "99thPercentileLatency(us)",
+  "value" : 551.0
+} {
+  "metric" : "UPDATE",
+  "measurement" : "Operations",
+  "value" : 0.0
+} {
+  "metric" : "UPDATE",
+  "measurement" : "AverageLatency(us)",
+  "value" : "NaN"
+} {
+  "metric" : "UPDATE",
+  "measurement" : "MinLatency(us)",
+  "value" : 9.223372036854776E18
+} {
+  "metric" : "UPDATE",
+  "measurement" : "MaxLatency(us)",
+  "value" : 0.0
+} {
+  "metric" : "UPDATE",
+  "measurement" : "95thPercentileLatency(us)",
+  "value" : 0.0
+} {
+  "metric" : "UPDATE",
+  "measurement" : "99thPercentileLatency(us)",
+  "value" : 0.0
+} {
+  "metric" : "UPDATE",
+  "measurement" : "Return=UNEXPECTED_STATE",
+  "value" : 8463
+}
